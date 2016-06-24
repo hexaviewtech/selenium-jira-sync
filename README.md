@@ -24,7 +24,7 @@ It involves two steps :
 
 ##### STEP 2: Add syncon.properties file in classpath
 
-Syncon can be completely configured by simply adding syncon.properties file in classpath or you can also include the [syncon.properties] (syncon.properties) file mentioned in the project. Below are the mandatory properties keys which we need to define in this properties file before running a syncon project: 
+Syncon can be completely configured by simply adding syncon.properties file in classpath or you can also include the [syncOn.properties] (syncOn.properties) file mentioned in the project. Below are the mandatory properties keys which we need to define in this properties file before running a syncon project: 
 
 
 ```
